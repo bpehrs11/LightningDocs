@@ -1,0 +1,3 @@
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "@MAC_APP_NAME@";
